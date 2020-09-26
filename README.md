@@ -136,3 +136,14 @@ Future<MoMoResponse> sendMoMoRequest(String secretKey,String phoneNumber,int amo
 >see:[The Constructor for each item's definition](#constructor)
 
 This function responds ith a `Future` of type `MoMoResponse` which contain a link to load and complete your payment.
+
+### Preview
+<img src="https://raw.githubusercontent.com/wizlif/rave_flutter/master/example/media/preview.gif">
+
+## Contribute
+
+1. Fork it
+2. Create your feature branch (git checkout -b my-new-feature)
+3. Commit your changes (git commit -am 'Add some feature')
+4. Push to the branch (git push origin my-new-feature)
+5. Create new Pull Request
